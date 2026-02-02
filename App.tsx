@@ -1,12 +1,12 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Features from './components/Features';
-import Gallery from './components/Gallery';
-import LiveCounter from './components/LiveCounter';
-import About from './components/About';
-import Footer from './components/Footer';
+import Navbar from './components/Navbar.tsx';
+import Hero from './components/Hero.tsx';
+import Features from './components/Features.tsx';
+import Gallery from './components/Gallery.tsx';
+import LiveCounter from './components/LiveCounter.tsx';
+import About from './components/About.tsx';
+import Footer from './components/Footer.tsx';
 
 export default function App() {
   return (
